@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<head>
-    <title>cake</title>
-</head>
-<body>
-    <h1>cake</h1>
-</body>
-</html>
